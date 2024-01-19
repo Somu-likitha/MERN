@@ -1,0 +1,13 @@
+{
+    "name":"5g5",
+    "version":"0.1.1",
+    "main":"5g5",
+    "repository":{
+    "type":"git",
+    "url":"https://github.com/Somu-likitha/MERN"},
+    "keywords":["calc","calcpsk","psk"],
+    "dependencies":{},
+    "engines":{
+        "node":"*"
+    }
+}
